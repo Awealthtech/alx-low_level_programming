@@ -1,1 +1,1 @@
-hello,world
+compile c file
