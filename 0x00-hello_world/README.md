@@ -1,1 +1,1 @@
-printf
+program is like building
