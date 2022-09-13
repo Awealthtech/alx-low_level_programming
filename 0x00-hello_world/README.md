@@ -1,1 +1,1 @@
-program is like building
+puts
