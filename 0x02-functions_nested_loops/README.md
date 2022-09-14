@@ -1,1 +1,1 @@
-program checks lowercases
+all files
