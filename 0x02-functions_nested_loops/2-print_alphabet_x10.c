@@ -1,19 +1,20 @@
 #include "main.h"
 
 /**
-* print_alphabet_x10 - function to print abc
-*
-* Return: 0
-*/
-void print_alphabet(void)
+ * main - check the code.
+ *
+ * Return: Always 0.
+ */
+int main(void)
 {
-char c, i;
-for (i = 0; i <= 9; i++)
+    print_alphabet_x10();
+	{
+chsr c, i;
+for (i = 0; i <= 9; i++)}
 {
-for (c = 'a'; c <= 'z'; c++)
+for (c = 'a'; c <= 'z'; c++)}
 {
 _putchar(c);
-}
 _putchar('\n');
-}
+return (0);
 }
