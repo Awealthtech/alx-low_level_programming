@@ -1,1 +1,1 @@
-function that check alphabetical character
+program that prints sign
