@@ -1,1 +1,1 @@
-print alphabet in lower case
+program checks lowercases
