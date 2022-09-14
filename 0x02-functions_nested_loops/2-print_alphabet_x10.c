@@ -1,12 +1,11 @@
 #include "main.h"
 
 /**
- * main - ffunction print_alphabet_x10
-* Description: the code prints alphabet_x10
+ * print_alphabet_Ãx10 - function to print abc 100 times
 *
-* Return:0
+* Return: 0
 */
-void print_alphabet(void)
+void print_alphabet_x10(void)
 {
 char c, i;
 
