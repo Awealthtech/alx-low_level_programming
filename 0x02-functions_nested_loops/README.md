@@ -1,1 +1,1 @@
-function compute absolute value of an integer
+prints last figit of number
