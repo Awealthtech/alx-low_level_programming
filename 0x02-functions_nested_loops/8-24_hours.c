@@ -1,10 +1,10 @@
 #include "main.h"
 
 /**
-* jack_bauer - func that print minute of jack day 
-* from 00:00 to 23:59, min loop count minutes, 
+* jack_bauer - func that print minute of jack day
+* from 00:00 to 23:59,min loop count minutes,
 * while hour loop counts hours and reset minutes
-* 
+*
 * Return: 0
 */
 void jack_bauer(void)
