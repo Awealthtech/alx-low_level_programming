@@ -1,1 +1,1 @@
-pribt time
+prints time table
