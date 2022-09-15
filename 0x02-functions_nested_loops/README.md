@@ -1,1 +1,1 @@
-prints last figit of number
+pribt time
