@@ -1,1 +1,1 @@
-add two integers and return the result
+10-add.c
