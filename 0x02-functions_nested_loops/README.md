@@ -1,1 +1,1 @@
-prints time table
+add two integers and return the result
