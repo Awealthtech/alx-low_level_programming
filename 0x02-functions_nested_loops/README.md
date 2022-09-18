@@ -1,1 +1,1 @@
-10-add.c
+function that print all natural numbers
